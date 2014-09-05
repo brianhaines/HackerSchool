@@ -1,4 +1,4 @@
-hackerschool
+Photo Date Sorter
 ============
 
 For managing photos from my other random cameras and also pictures from other people's cameras. Takes the exif data from all of these photos and copies them into new folders. The new foldes are named by the date the photo was taken. 
